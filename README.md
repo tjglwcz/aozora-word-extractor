@@ -10,4 +10,4 @@ This Jupyter notebook provides a quick way to analyse Japanese text in the conte
 
 As the sample data used for this project is rather dated, there were many words without a JLPT level assigned.
 
-Initially, I used the Jisho API to obtain JLPT level information, but frequent timeouts increased the time it took to process the word list. As an alternative, I decided to use another API with a smaller word base. It is also prone to errors and sometimes does not include basic words, such as いる.
+In the near future, I would like to build an interactive dashboard that would enable checking the data about various Aozora Bunko text using the same visualisations. 
